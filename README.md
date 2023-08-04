@@ -6,11 +6,11 @@ Soy desarrollador de Plugins y configurador con más de 2 años de experiencia. 
 
 ### 🎓 Educación
 
-- **Ingeniería de Sistemas e Informática** - *Tu Universidad* (Fecha de inicio - presente)
+- **Ingeniería de Sistemas e Informática** - *Senati* (2021 - Presente)
 
 ### 💼 Experiencia
 
-- **Desarrollador de Plugins** - *Empresa/Proyecto* (Fecha de inicio - Fecha de finalización)
+- **Desarrollador de Plugins** - *Empresa/Proyecto* (2019 - 2023
 
 ### 🛠️ Habilidades
 
