@@ -1,36 +1,31 @@
-# Hola, soy Leonardo R. (LeonardoRRC) 👋
+# Hello, I'm Leonardo R. (LeonardoRRC) 👋
 
-## 🚀 Sobre mí
+## 🚀 About me
 
-Soy desarrollador de Plugins y configurador con más de 2 años de experiencia. Actualmente, estoy estudiando Ingeniería de Sistemas e Informática y tengo conocimientos en el manejo de redes y servidores.
+I am a Plugin developer and configurator with more than 2 years of experience. Currently, I am studying Systems and Computer Engineering and I have knowledge in managing networks and servers.
 
-### 🎓 Educación
+### 🎓 Education
 
-- **Ingeniería de Sistemas e Informática** - *Senati* (2021 - Presente)
+- **Systems and Computer Engineering** - *Senati* (2021 - Presente)
 
-### 💼 Experiencia
+### 🛠️ Skills
 
-- **Desarrollador de Plugins** - *Empresa/Proyecto* (2019 - 2023
+- **Programming Languages:** Java, Python, etc.
+- **Tools:** Git, Docker, etc.
+- **Networks and Servers:** Configuration and management of servers, etc.
 
-### 🛠️ Habilidades
+## 📈 Statistics
 
-- **Lenguajes de Programación:** Java, Python, etc.
-- **Herramientas:** Git, Docker, etc.
-- **Redes y Servidores:** Configuración y manejo de servidores, etc.
+![Leonardo's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=LeonardoRRC&show_icons=true&theme=radical)
 
-## 📈 Estadísticas
+## 📫 Contact
 
-![Estadísticas de GitHub de Leonardo](https://github-readme-stats.vercel.app/api?username=LeonardoRRC&show_icons=true&theme=radical)
+- 📧 [Email](mailto:bytessavvy@gmail.com)
 
-## 📫 Contacto
+## 🤝 Contributions
 
-- 🌐 [Sitio Web](https://leonardoservice.org.pe)
-- 📧 [Correo Electrónico](mailto:bytessavvy@gmail.com)
-
-## 🤝 Contribuciones
-
-Me encanta colaborar en proyectos y aprender nuevas tecnologías. Si tienes alguna idea o proyecto en mente, ¡no dudes en contactarme!
+I love collaborating on projects and learning new technologies. If you have any ideas or projects in mind, don't hesitate to contact me!
 
 ---
 
-⭐️ De [LeonardoRRC](https://github.com/LeonardoRRC)
+⭐️ From [LeonardoRRC](https://github.com/LeonardoRRC)
