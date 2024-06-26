@@ -6,7 +6,7 @@ I am a Plugin developer and configurator with more than 2 years of experience. C
 
 ### 🎓 Education
 
-- **Systems and Computer Engineering** - *Senati* (2021 - Presente)
+- **Systems and Computer Engineering** - *Senati* (2021 - Present)
 
 ### 🛠️ Skills
 
