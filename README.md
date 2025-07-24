@@ -1,48 +1,63 @@
-# 👋 Hello, I'm Leonardo R. (LeonardoRRC)  
+# 👋 Hello, I'm Leonardo R. (LeonardoRRC)
 
 ## 🚀 About Me
 
-I am a passionate **Plugin Developer and Configurator** with over **2 years of experience** in the field. Currently, I am pursuing a degree in **Systems and Computer Engineering** and have strong expertise in **network and server management**.
+I’m currently studying **Network and Communications Administration**, with a strong foundation in **systems engineering**, **server management**, and **network infrastructure**. I have over **2 years of hands-on experience** in systems administration, server deployment, and automation using modern DevOps tools.
+
+Although I began my tech journey as a **Minecraft plugin developer**, my current focus lies in **network engineering**, **Linux server administration**, and **cloud technologies**.
 
 ---
 
 ## 🎓 Education
 
-- **Systems and Computer Engineering** - *Senati* (2021 - 2025)
+* **Network and Communications Administration** - *Cibertec* (2025 - Present)
+* **Systems and Computer Engineering** - *Senati* (2021 - 2025, completed coursework)
 
 ---
 
 ## 🛠️ Skills
 
-### 💻 Programming Languages
-- **Java** (Spigot/Bukkit Plugin Development)
-- **Python** (Scripting & Automation)
-- **Other technologies** (expandable)
+### 🧠 Core Competencies
 
-### 🛠️ Tools & Technologies
-- **Git & GitHub** (Version Control)
-- **Docker** (Containerization)
-- **Linux & Windows Server Management**
-- **Network Administration**
+* **Network Design & Administration**
+* **Server Deployment (Linux/Windows)**
+* **Firewall & Security Configuration**
+* **Virtualization (Proxmox, Docker, VMware)**
+* **Monitoring & Troubleshooting**
+
+### 💻 Programming & Scripting
+
+* **Python** – Scripting, automation, backups
+* **Java** – Spigot/Bukkit plugin development *(past projects)*
+
+### ⚙️ Tools & Technologies
+
+* **Linux (Debian, Ubuntu, Alpine)**
+* **Docker & Docker Compose**
+* **Git & GitHub**
+* **Nginx, Apache**
+* **SQL & SQLite**
+* **SSH, SFTP, FTP, DNS, DHCP**
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-![Leonardo's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=LeonardoRRC&show_icons=true&theme=radical)
+![Leonardo's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=LeonardoRRC\&show_icons=true\&theme=radical)
 
 ---
 
 ## 📫 Contact
 
-- 📧 **Email:** [quantum@thequantum.uk](mailto:quantum@thequantum.uk)
-- 🌐 **Portfolio:** *[Click here](https://thequantum.uk/)*
+* 📧 **Email:** [quantum@thequantum.uk](mailto:quantum@thequantum.uk)
+* 🌐 **Portfolio:** *[thequantum.uk](https://thequantum.uk/)*
 
 ---
 
-## 🤝 Contributions & Collaboration
+## 🤝 Let’s Collaborate
 
-I am always eager to **collaborate on open-source projects**, learn new technologies, and contribute to innovative ideas. If you have an exciting project in mind, feel free to reach out!
+Open to internships, freelance work, or collaborations in **network operations**, **DevOps**, or **infrastructure projects**.
+If you're working on something interesting — let’s connect!
 
 ---
 
