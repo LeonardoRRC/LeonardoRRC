@@ -117,6 +117,8 @@ open_to:   [internships, freelance, infrastructure collaborations]
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [Carbon Theme 2.0.0](https://github.com/LeonardoRRC/carbon-theme/releases/tag/v2.0.0) in [LeonardoRRC/carbon-theme](https://github.com/LeonardoRRC/carbon-theme)
+2. 🚀 Published release [1.1.0](https://github.com/LeonardoRRC/HyfeUtils/releases/tag/1.1.0) in [LeonardoRRC/HyfeUtils](https://github.com/LeonardoRRC/HyfeUtils)
 <!--END_SECTION:activity-->
 
 ---
